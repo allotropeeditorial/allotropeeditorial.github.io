@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Comic Sans MS", sans-serif;
+}
+
+header {
+  background-image: url("https://i.imgur.com/mLhcC0t.jpg");
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: 120% 120%;
+  border: 0px;
+}
