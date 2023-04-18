@@ -4,7 +4,7 @@ import Contact from "./Contact";
 const Footer = () => {
   const [showModal, setShowModal] = useState(false);
   return (
-    <div id="footer" className="text-center">
+    <div id="footer" className=" text-center">
       <div id="footer1" className="bg-[#f5f5f5]">
         <footer>
           <br />

@@ -15,17 +15,17 @@ const Navbar = () => {
               width="150"
               height="100"
             />
-            {/* <button
-                className="navbar-toggler"
-                type="button"
-                data-toggle="collapse"
-                data-target="#navbarNavDropdown"
-                aria-controls="navbarNavDropdown"
-                aria-expanded="false"
-                aria-label="Toggle navigation"
-                >
-                <span className="navbar-toggler-icon"></span>
-              </button> */}
+            <button
+              className="navbar-toggler"
+              type="button"
+              data-toggle="collapse"
+              data-target="#navbarNavDropdown"
+              aria-controls="navbarNavDropdown"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span className="navbar-toggler-icon"></span>
+            </button>
           </Link>
         </div>
         <div id="links-container" className="ml-auto flex items-center">

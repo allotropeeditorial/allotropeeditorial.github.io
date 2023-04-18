@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 const Services = () => {
   return (
-    <div id="services" className="content-center px-60 pr-60">
+    <div id="services" className="container content-center px-20 pr-20">
       <br />
       <h1 className="text-3xl text-[#20b2aa]">Services & Rates</h1>
       <br />

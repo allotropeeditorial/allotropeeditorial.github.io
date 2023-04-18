@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 const Resources = () => {
   return (
-    <div id="resources" className="px-60 pr-60">
+    <div id="resources" className=" container px-20 pr-20">
       <br />
       <h3 className="text-2xl text-[#20b2aa]">
         Amazon Kindle Categories & Sub-categories

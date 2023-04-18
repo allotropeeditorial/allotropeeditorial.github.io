@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 const About = () => {
   return (
-    <div id="about" className="px-60 pr-60 text-center">
+    <div id="about" className=" container px-20 pr-20 text-center">
       <br />
       <h2 className="text-3xl text-[#20b2aa]">Tiarra - Editor</h2>
       <br />

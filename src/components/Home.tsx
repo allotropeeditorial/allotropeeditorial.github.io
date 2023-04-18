@@ -11,7 +11,11 @@ const Home = () => {
         <h1 className="text-4xl text-white">Allotrope Editorial</h1>
       </header>
 
-      <div id="body" className="px-60 pb-10 pr-60 pt-10 text-center">
+      <div
+        id="body"
+        className=" container mx-auto px-20 pb-10 pr-20 pt-10 text-center"
+        // className="text-center"
+      >
         <p>
           Hello authors and welcome to Allotrope Editorial! Here we provide a
           range of editing services as well as formatting and website building
